@@ -1,4 +1,12 @@
-node_modules/
-build/
-node_modules/
-build/
+# dependencies
+/node_modules
+
+# production build
+/build
+/dist
+
+# misc
+.DS_Store
+.env
+.bfg-report
+bfg.jar
